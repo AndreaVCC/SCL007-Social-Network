@@ -44,9 +44,9 @@ html {
 		margin: 7%;
 		
 	}
-	footer ul li a:hover{
+	/* footer ul li a:hover{
 		color:#F65C75;
-	}
+	} */
   /* ---- LOGIN MOBILE FIRST ---- */
   .loginBox{
     position:absolute;
@@ -370,7 +370,7 @@ nav ul li a{
 }
 
 .comment-box #comment-head i:hover {
-	color: #03658c;
+	color: #9aff97;
 }
 
 .comment-box .comment-name {
