@@ -1,4 +1,4 @@
-![enter image description here](http://subirimagen.me/uploads/20190207185555.png)
+![enter image description here](https://drive.google.com/file/d/1FNByOzgV9DnjuIq9OfphsqwItZkPUAHu/view?usp=sharing)
 
  Bienvenidos a nuestra aplicación llamada: Medicina Natural.
  

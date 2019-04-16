@@ -20,6 +20,7 @@
     "chai": "^4.2.0",
     "eslint-config-airbnb": "^17.1.0",
     "jest": "^24.0.0",
+    "md-links": "git+https://github.com/AndreaVCC/SCL007-md-links.git",
     "mocha": "^5.2.0"
   }
 }
