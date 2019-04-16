@@ -1,4 +1,4 @@
-![enter image description here](https://drive.google.com/file/d/1FNByOzgV9DnjuIq9OfphsqwItZkPUAHu/view?usp=sharing)
+![enter image description here](https://drive.google.com/drive/folders/1x00hV1sVCQ1WFFBDhW1QbAEF0VxIb_2y)
 
  Bienvenidos a nuestra aplicación llamada: Medicina Natural.
  
