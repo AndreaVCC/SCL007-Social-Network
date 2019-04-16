@@ -167,7 +167,7 @@ Se crearon diferentes prototipos del Login de la aplicación y se testearon con 
 
   
 
-![enter image description here](https://github.com/AndreaVCC/SCL007-Social-Network/blob/master/Sin%20t%C3%ADtulo-1-Recuperado.png)
+![enter image description here](https://raw.githubusercontent.com/AndreaVCC/SCL007-Social-Network/master/Sin%20t%C3%ADtulo-1-Recuperado.png)
 
   
 
