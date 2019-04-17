@@ -171,7 +171,7 @@ Según el testeo realizado elegimos el diseño mas acorde a nuestro usuario , as
 
   
 
-![enter image description here](https://raw.githubusercontent.com/AndreaVCC/SCL007-Social-Network/master/Sin%20t%C3%ADtulo-1-Recuperado.png)
+![enter image description here](https://raw.githubusercontent.com/AndreaVCC/SCL007-Social-Network/master/imagenes%20readme/Sin%20t%C3%ADtulo-1-Recuperado.png)
 
 Link del [Prototipo Final ](https://www.figma.com/file/ciG8oYQSyw5OAVCdNz1noCDH/Untitled?node-id=29:2) realizado en Figma
 
