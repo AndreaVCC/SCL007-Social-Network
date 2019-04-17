@@ -1,4 +1,4 @@
-![enter image description here](https://drive.google.com/drive/folders/1x00hV1sVCQ1WFFBDhW1QbAEF0VxIb_2y)
+![enter image description here](https://raw.githubusercontent.com/AndreaVCC/SCL007-Social-Network/master/imagenes%20readme/portada.png)
 
  Bienvenidos a nuestra aplicación llamada: Medicina Natural.
  
@@ -24,7 +24,7 @@ De los resultados pudimos concluir que la mayoría de nuestro público será muj
 En la encuesta participaron 67 personas y obtuvimos los siguientes resultados:
 
 **Género**
-![enter image description here](http://subirimagen.me/uploads/20190207193217.png)
+![enter image description here](https://raw.githubusercontent.com/AndreaVCC/SCL007-Social-Network/master/imagenes%20readme/genero.png)
 
 - Las mas interesadas en la medicina natural son mujeres.
 - La cantidad de mujeres dobla a la cantidad de hombres
@@ -33,7 +33,7 @@ En la encuesta participaron 67 personas y obtuvimos los siguientes resultados:
 
 
 **Edad**
-![enter image description here](http://subirimagen.me/uploads/20190207193739.png)
+![enter image description here](https://raw.githubusercontent.com/AndreaVCC/SCL007-Social-Network/master/imagenes%20readme/edad.png)
 
 - Se acumula la mayor cantidad en el rango 21-25 años.
 - Hay una misma cantidad entre rangos 15-20 y 26-30 años.
@@ -82,7 +82,7 @@ Gracias a los resultados obtenidos en la encuesta definimos nuestro usuario:
   
 
 Juanita, mujer de 24 años, siempre ha tenido problemas con su cabello, ya que es muy seco y eso le provoca problemas en el cuero cabelludo, además su piel se irrita cuando utiliza cualquier tipo de shampoo y los remedios recomendados en la farmacia son muy caros . Por ello, tiene semanas de buscar en Internet soluciones a su problema, pero ninguna le convence ya que Juanita necesita una aplicación confiable donde leer publicaciones de más personas con su mismo problema.
- ![enter image description here](http://subirimagen.me/uploads/20190214231044.jpg)
+ ![enter image description here](https://raw.githubusercontent.com/AndreaVCC/SCL007-Social-Network/master/imagenes%20readme/juanitaperez.jpg)
  
 
 **Historia Usuario 1**
@@ -148,7 +148,7 @@ _"Yo como usuario de la aplicación, Quiero filtrar publicaciones según categor
 ### Prototipo Baja Fidelidad +  Diagrama de Flujo Inicial 
 
   
-![enter image description here](http://subirimagen.me/uploads/20190208105025.png)
+![enter image description here](https://raw.githubusercontent.com/AndreaVCC/SCL007-Social-Network/master/imagenes%20readme/baja.png)
 
   
 
@@ -160,6 +160,7 @@ _"Yo como usuario de la aplicación, Quiero filtrar publicaciones según categor
 ### Prototipo Alta Fidelidad + Diagrama Flujo Final
 
   
+![enter image description here](https://raw.githubusercontent.com/AndreaVCC/SCL007-Social-Network/master/imagenes%20readme/Sin%20t%C3%ADtulo.png)
 
   
 
@@ -167,7 +168,7 @@ Se crearon diferentes prototipos del Login de la aplicación y se testearon con 
 
   
 
-![enter image description here](https://raw.githubusercontent.com/AndreaVCC/SCL007-Social-Network/master/Sin%20t%C3%ADtulo-1-Recuperado.png)
+![enter image description here](https://raw.githubusercontent.com/AndreaVCC/SCL007-Social-Network/master/imagenes%20readme/alta.png)
 
   
 
@@ -175,7 +176,7 @@ Según el testeo realizado elegimos el diseño mas acorde a nuestro usuario , as
 
   
 
-![enter image description here](http://subirimagen.me/uploads/20190214214706.png)
+![enter image description here](https://raw.githubusercontent.com/AndreaVCC/SCL007-Social-Network/master/imagenes%20readme/medinatu.png)
 
 Link del [Prototipo Final ](https://www.figma.com/file/ciG8oYQSyw5OAVCdNz1noCDH/Untitled?node-id=29:2) realizado en Figma
 
