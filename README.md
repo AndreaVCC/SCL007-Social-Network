@@ -159,31 +159,29 @@ _"Yo como usuario de la aplicación, Quiero filtrar publicaciones según categor
 
 ### Prototipo Alta Fidelidad + Diagrama Flujo Final
 
-  
-![enter image description here](https://raw.githubusercontent.com/AndreaVCC/SCL007-Social-Network/master/imagenes%20readme/Sin%20t%C3%ADtulo.png)
-
-  
-
 Se crearon diferentes prototipos del Login de la aplicación y se testearon con diferentes potenciales usuarios para la elección del diseño final.
 
-  
+Opciones Login:
 
 ![enter image description here](https://raw.githubusercontent.com/AndreaVCC/SCL007-Social-Network/master/imagenes%20readme/alta.png)
 
-  
+
 
 Según el testeo realizado elegimos el diseño mas acorde a nuestro usuario , así que optamos por un logotipo que representa el rostro de una mujer joven y usamos colores en tonalidades verdes que se asocian a la naturaleza, y con ello realizamos el prototipo final:
 
   
 
-![enter image description here](https://raw.githubusercontent.com/AndreaVCC/SCL007-Social-Network/master/imagenes%20readme/medinatu.png)
+![enter image description here](https://raw.githubusercontent.com/AndreaVCC/SCL007-Social-Network/master/Sin%20t%C3%ADtulo-1-Recuperado.png)
 
 Link del [Prototipo Final ](https://www.figma.com/file/ciG8oYQSyw5OAVCdNz1noCDH/Untitled?node-id=29:2) realizado en Figma
 
+
+Diagrama de Flujo de la aplicación 
   
+![enter image description here](https://raw.githubusercontent.com/AndreaVCC/SCL007-Social-Network/master/imagenes%20readme/Sin%20t%C3%ADtulo.png)
 
-![enter image description here](http://subirimagen.me/uploads/20190214213046.png)
 
+  
 ### Fundamentos Prototipo
 
   
